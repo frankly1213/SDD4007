@@ -41,3 +41,17 @@ Furthermore, I have experience with MySQL, I using this created a small database
 <br>Hardware/software co-design: a object detection system combining computer vision (OpenCV)<br>
 ![image](https://github.com/user-attachments/assets/c7986bdd-6866-4bc3-8d64-619bf45b4887)
 
+
+## Career Goal 
+<br>Solutions Architect, Artificial intelligence<br>
+
+## Career Plan
+### About Skills to Learn
+<br>Linear Algebra
+Probability Theory
+Mathematical optimization
+Supervised Learning
+Time Series Forecast
+Semi-supervised learning
+CARLA Simulation Environment 
+<br>
