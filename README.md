@@ -25,5 +25,15 @@ Furthermore, I have experience with MySQL, I using this created a small database
 <br>
 
 
-## 职业目标
-这是我的职业目标部分。
+## Personal Competency
+### AI & Robotics Development
+<br>Proficient in robotic kinematics: Implemented spatial transformation matrices to simulate 6-axis robotic arm trajectories (pybullet)<br>
+<br>Built autonomous IoT systems: Integrated Arduino-based sensors with ROS navigation stack for environment mapping
+<br>
+### Full-Stack Programming
+<br>Developed machine learning pipelines: Created reinforcement learning agents using Python<br>
+<br>database solutions: Designed a MySQL-driven library management system <br>
+<br>Cross-platform development: Built industrial IoT monitoring tools using C#/Node red with Modbus protocol integration<br>
+### Engineering Problem-Solving
+<br>Hardware/software co-design: a object detection system combining computer vision (OpenCV)<br>
+
