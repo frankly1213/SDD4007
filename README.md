@@ -28,12 +28,16 @@ Furthermore, I have experience with MySQL, I using this created a small database
 ## Personal Competency
 ### AI & Robotics Development
 <br>Proficient in robotic kinematics: Implemented spatial transformation matrices to simulate 6-axis robotic arm trajectories (pybullet)<br>
-<br>Built autonomous IoT systems: Integrated Arduino-based sensors with ROS navigation stack for environment mapping
-<br>
+<br>Built autonomous IoT systems: Integrated Arduino-based sensors with ROS navigation stack for environment mapping<br>
+![image](https://github.com/user-attachments/assets/971accbb-a544-4783-8a9b-2e07f0b6b3d9)
+
 ### Full-Stack Programming
 <br>Developed machine learning pipelines: Created reinforcement learning agents using Python<br>
 <br>database solutions: Designed a MySQL-driven library management system <br>
 <br>Cross-platform development: Built industrial IoT monitoring tools using C#/Node red with Modbus protocol integration<br>
+![image](https://github.com/user-attachments/assets/18ed0ce3-a808-4129-bcd3-8458da5cc02e)
+
 ### Engineering Problem-Solving
 <br>Hardware/software co-design: a object detection system combining computer vision (OpenCV)<br>
+![image](https://github.com/user-attachments/assets/c7986bdd-6866-4bc3-8d64-619bf45b4887)
 
