@@ -47,11 +47,11 @@ Furthermore, I have experience with MySQL, I using this created a small database
 
 ## Career Plan
 ### About Skills to Learn
-<br>Linear Algebra
-Probability Theory
-Mathematical optimization
-Supervised Learning
-Time Series Forecast
-Semi-supervised learning
-CARLA Simulation Environment 
-<br>
+<br>Linear Algebra<br>
+<br>Probability Theory<br>
+<br>Mathematical optimization<br>
+<br>Supervised Learning<br>
+<br>Time Series Forecast<br>
+<br>Semi-supervised learning<br>
+<br>CARLA Simulation Environment <br>
+
