@@ -1,11 +1,11 @@
 # E-portfolio
 
-## 个人信息
+## personal information
 
-姓名: 嘻嘻嘻  
-学号: 151651  
-课程代码 / 班级: scdsa / 9  
-个人网站 / 社交媒体链接: [链接](http://example.com)
+Name: Fan ka kit
+Student No: 230177465  
+Programme Code / Class: EG114728 / 2A	 
+Personal Web Site / Social Media Link: 
 
 ## 自我介绍
 <!-- 这里可以插入您的 HTML 代码 -->
