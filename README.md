@@ -2,10 +2,10 @@
 
 ## personal information
 
-</r>Name: Fan ka kit</r>
-</r>Student No: 230177465</r> 
-</r>Programme Code / Class: EG114728 / 2A</r>	 
-</r>Personal Web Site / Social Media Link: </r>
+<br>Name: Fan ka kit<br>
+<br>Student No: 230177465<br> 
+<br>Programme Code / Class: EG114728 / 2A<br>	 
+<br>Personal Web Site / Social Media Link: <br>
 
 ## 自我介绍
 <!-- 这里可以插入您的 HTML 代码 -->
