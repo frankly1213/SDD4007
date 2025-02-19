@@ -5,7 +5,7 @@
 <br>Name: Fan ka kit<br>
 <br>Student No: 230177465<br> 
 <br>Programme Code / Class: EG114728 / 2A<br>	 
-<br>Personal Web Site / Social Media Link: https://github.com/frankly1213/SDD4007-Enhancing-Competencies-in-the-21st-Century-Workplace.git<br>
+
 
 ## Self-introduction
 
